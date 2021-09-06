@@ -1,2 +1,0 @@
-# zamki-sochi
-Work
