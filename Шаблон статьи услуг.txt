@@ -1,0 +1,34 @@
+Замки Сочи рабочие модули
+
+<!--Тег Н2 - Заголовки-разделы. Может быть ключевой фразой.
+Пример кода.-->
+<h2 style="text-align: center;">
+	<span style="font-size: medium;">Ремонт замка Apecs</span>
+</h2>
+#######
+
+<!--Тег Н3 - В каждом разделе цена на услугу. Может быть ключевой фразой.
+Пример кода.-->
+<h3 style="text-align: center;">
+	<strong><span style="color: #ff6600;">Ремонт замка Apecs - от 2 000 руб.</span></strong>
+</h3>
+#######
+
+<!--Тег Н3 - В конце статьи телефон с призывом позвонить.
+Пример кода. Кликабельный номер телефона и призыв "Позвоните прямо сейчас. Оранжевый цвет, ориентация по центру. Жирным.-->
+<h3 style="text-align: center;">
+	<span style="font-size: medium; color: #ff6600;">
+		<strong>Позвоните прямо сейчас!</strong></span>
+</h3>
+<h3 style="text-align: center;"><span style="text-decoration: underline;">
+            <span style="font-size: large; color: #ff6600;">
+                  <strong><a href="tel:+79881408080"><span style="color: #ff6600; text-decoration: underline;">+0_000_000_00_00</span>
+                        </a>
+                  </strong>
+            </span></span>
+</h3>
+#######
+
+<!--Телеграмм/Ватсап ссылка:-->
+<p><a href="whatsapp://send?phone=+0_000_000_00_00"><img src="" alt="Написать в Ватсап" width="50" height="50" /></a></p>
+<p><a href="tg://resolve?domain=@username"><img src="" alt="Написать в Телеграм" width="50" height="50" /></a></p>
